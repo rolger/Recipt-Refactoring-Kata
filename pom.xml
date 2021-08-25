@@ -5,10 +5,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.nagarro</groupId>
-	<artifactId>abstraction</artifactId>
+	<artifactId>abstraction-kata</artifactId>
+	<name>Same Level of Abstraction Refactoring Kata</name>
 	<version>0.0.1-SNAPSHOT</version>
-
-	<name>abstraction</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
