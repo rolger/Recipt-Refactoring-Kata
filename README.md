@@ -1,6 +1,10 @@
 # Same Level of Abstraction Kata
 
-Starting point is some code without any abstractions, which means everything is on exactly one level. The code is so simply that there might be no need for structuring it. Without the abstractions the code doesn't fullfill some design principles. Especially it's not open for new requirements.
+Starting point is some code without any abstractions, which means everything is on exactly one level. It just describes the how the pancake recipt is implemented. 
+
+The code is too simple, so why should we structure it. There are no Sonar issues and it's small (= 14 lines of code). But looking at the class it's hard to understand what it does and you have no idea why somebody is going to use it.
+
+Further, without the abstractions the code doesn't fullfill some design principles. Especially it's not open for new requirements.
 
 
 ## Feature 1
