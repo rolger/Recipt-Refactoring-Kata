@@ -44,4 +44,6 @@ jobs:
       env:
         # SonarCloud access token should be generated from https://sonarcloud.io/account/security/
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+        # Needed to get some information about the pull request, if any
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       run: mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.organization=rolger -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=$SONAR_TOKEN -Dsonar.projectKey=rolger_Recipt-Refactoring-Kata
