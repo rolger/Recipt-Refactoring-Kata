@@ -1,3 +1,5 @@
+[![Github Actions Status for Recipt-Refactoring-Kata](https://github.com/rolger/Recipt-Refactoring-Kata/Build/badge.svg)](https://github.com/rolger/Recipt-Refactoring-Kata/actions) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rolger_Recipt-Refactoring-Kata&metric=alert_status)](https://sonarcloud.io/dashboard?id=rolger)
+
 # Same Level of Abstraction Kata
 
 Starting point is some code without any abstractions, which means everything is on exactly one level. It just describes the how the pancake recipt is implemented. 
