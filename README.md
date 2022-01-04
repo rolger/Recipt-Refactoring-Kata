@@ -1,4 +1,4 @@
-[![Github Actions Status for Recipt-Refactoring-Kata](https://github.com/rolger/Recipt-Refactoring-Kata/Build/badge.svg)](https://github.com/rolger/Recipt-Refactoring-Kata/actions) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rolger_Recipt-Refactoring-Kata&metric=alert_status)](https://sonarcloud.io/dashboard?id=rolger_Recipt-Refactoring-Kata)
+[![Github Actions Status](https://github.com/rolger/Recipt-Refactoring-Kata/actions/workflows/maven.yml/badge.svg)] (https://github.com/rolger/Recipt-Refactoring-Kata/actions) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rolger_Recipt-Refactoring-Kata&metric=alert_status)](https://sonarcloud.io/dashboard?id=rolger_Recipt-Refactoring-Kata)
 
 # Same Level of Abstraction Kata
 
